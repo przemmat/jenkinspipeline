@@ -15,6 +15,6 @@ public class JenkinspipelineApplication {
 @GetMapping
     public String get()
 {
-    return "Hello Jenkins";
+    return "Hola Jenkins";
 }
 }
